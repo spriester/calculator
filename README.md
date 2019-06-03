@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a basic JS script that I created for practice creating basic JavaScript functions. The application takes two number as input from the user and adds them together._
+_This is a basic JS script that I created for practice creating basic JavaScript functions. The application takes two numbers as input from the user and adds them together._
 
 ## Setup/Installation Requirements
 
@@ -22,7 +22,7 @@ _For support, contact samanthapriester@outlook.com_
 
 ## Technologies Used
 
-_HTML, CSS_
+_HTML, CSS, JavaScript_
 
 ### License
 
